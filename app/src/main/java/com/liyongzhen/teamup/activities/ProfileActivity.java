@@ -106,10 +106,12 @@ public class ProfileActivity extends AppCompatActivity implements DatePickerDial
                     if (user.getPhotoUrl().isEmpty())
                         imageViewPhoto.setImageResource(R.drawable.photo_default);
                     else
-                        Picasso.with(ProfileActivity.this).load(user.getPhotoUrl()).into(imageViewPhoto);
+                        Picasso.with(ProfileActivity.this).load(user.getPhotoUrl())
+                                .placeholder(R.drawable.default_profile)
+                            .error(R.drawable.default_profile)
+                            .into(imageViewPhoto);
                     Log.d(CommonValuables.TAG, user.getPhotoUrl());
                     Log.e(CommonValuables.TAG, user.getPhotoUrl());
-
                 }
             }
 
@@ -144,7 +146,7 @@ public class ProfileActivity extends AppCompatActivity implements DatePickerDial
         imageViewPhoto.buildDrawingCache();
         Bitmap bitmap = imageViewPhoto.getDrawingCache();
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+        bitmap.compress(Bitmap.CompressFormat.JPEG, 10, baos);
         byte[] data = baos.toByteArray();
 
         String uID = FirebaseAuth.getInstance().getCurrentUser().getUid();

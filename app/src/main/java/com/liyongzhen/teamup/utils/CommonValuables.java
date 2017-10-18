@@ -9,6 +9,8 @@ import android.graphics.Rect;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 /**
  * Created by alex2 on 10/13/2017.
@@ -16,6 +18,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class CommonValuables {
     public static final String TAG = "---";
+    public static final DatabaseReference referenceFollowings = FirebaseDatabase.getInstance().getReference().child("followings");
 
     public static Bitmap circleResizedBitmap(Bitmap bitmap, int radius){
         Bitmap.Config conf = Bitmap.Config.ARGB_8888;

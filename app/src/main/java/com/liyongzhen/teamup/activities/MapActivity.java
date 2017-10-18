@@ -148,6 +148,7 @@ public class MapActivity extends AppCompatActivity implements View.OnClickListen
 //        });
     }
 
+
     private boolean checkFirebaseAuth(){
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
         if (firebaseUser != null) {

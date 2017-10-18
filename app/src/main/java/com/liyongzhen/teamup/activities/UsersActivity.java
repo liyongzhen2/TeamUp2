@@ -22,6 +22,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 import com.liyongzhen.teamup.R;
+import com.liyongzhen.teamup.adapters.UserAllAdapter;
 import com.liyongzhen.teamup.models.User;
 import com.liyongzhen.teamup.adapters.UserAdapter;
 import com.liyongzhen.teamup.utils.CommonValuables;
@@ -32,7 +33,7 @@ public class UsersActivity extends AppCompatActivity {
 
     private ArrayList<User> searchedUsers;
     private RecyclerView mRecyclerView;
-    private UserAdapter adapter;
+    private UserAllAdapter adapter;
     private ProgressBar mProgressBar;
 
     private String currentUserId = "";
@@ -55,9 +56,8 @@ public class UsersActivity extends AppCompatActivity {
         mRecyclerView = (RecyclerView) findViewById(R.id.friendsView);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         mRecyclerView.addItemDecoration(new DividerItemDecoration(this, DividerItemDecoration.VERTICAL));
-        adapter = new UserAdapter(this, searchedUsers);
+        adapter = new UserAllAdapter(this, searchedUsers);
         mRecyclerView.setAdapter(adapter);
-
 
         allUsers();
     }

@@ -18,4 +18,10 @@
     <color name="orange">#ffff6600</color>
     <color name="lightGreen">#91DC5A</color>
     <color name="darkRed">#D80027</color>
+
+    // User's Experience
+    <color name="experience_red">#f00</color>   // 1st
+    <color name="experience_blue">#00f</color>  // 2st
+    <color name="experience_green">#0f0</color> // 3st
+    <color name="experience_yellow">#ff0</color>// 4st
 </resources>

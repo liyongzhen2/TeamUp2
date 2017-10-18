@@ -180,7 +180,6 @@ public class TimeLineActivity extends AppCompatActivity{
             case R.id.menu_item_logout:
                 FirebaseAuth auth = FirebaseAuth.getInstance();
                 auth.signOut();
-//                SharedPrefUtil.saveBoolean(this, Constants.PREF_LOGINSTATE, false);
                 Intent i = new Intent(TimeLineActivity.this, LoginActivity.class);
                 startActivity(i);
                 finish();
