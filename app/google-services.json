@@ -1,0 +1,247 @@
+{
+  "project_info": {
+    "project_number": "481743752673",
+    "firebase_url": "https://teamup-8ccca.firebaseio.com",
+    "project_id": "teamup-8ccca",
+    "storage_bucket": "teamup-8ccca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481743752673:android:fce7c8125c828614",
+        "android_client_info": {
+          "package_name": "com.android.liyongzhen.gmailsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481743752673-rgiu11jt0fj7d9luvostk89nfcdsupmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.liyongzhen.gmailsignin",
+            "certificate_hash": "d2b8f6f24c4252e5846dd5cd4b3c03b92284bd06"
+          }
+        },
+        {
+          "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdQZz3AHpU6XM7_yHuUdhPawB2nD5aU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481743752673:android:27d689d63f1b7a06",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481743752673-roa0ojg5kp3tlo8opc2sj66pt3o72cd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "d2b8f6f24c4252e5846dd5cd4b3c03b92284bd06"
+          }
+        },
+        {
+          "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdQZz3AHpU6XM7_yHuUdhPawB2nD5aU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481743752673:android:cc8b8aa496311ebe",
+        "android_client_info": {
+          "package_name": "com.android.liyongzhen.teamup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481743752673-qgqvr7sjhu9aikov5gfhgier4dtbjnt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.liyongzhen.teamup",
+            "certificate_hash": "aebf9994f7acd347cc2e29e5d52b085bab08a3a7"
+          }
+        },
+        {
+          "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdQZz3AHpU6XM7_yHuUdhPawB2nD5aU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481743752673:android:5e5bf3af2326dc43",
+        "android_client_info": {
+          "package_name": "com.android.liyongzhen.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481743752673-34sfrhjokva5ks7sb6qiavvoj33t0aq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.liyongzhen.facebook",
+            "certificate_hash": "d2b8f6f24c4252e5846dd5cd4b3c03b92284bd06"
+          }
+        },
+        {
+          "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdQZz3AHpU6XM7_yHuUdhPawB2nD5aU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481743752673:android:7ee3eb2d9027f059",
+        "android_client_info": {
+          "package_name": "com.liyongzhen.teamup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481743752673-ouhqth60r7ij32hp0irch12e69si9p4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liyongzhen.teamup",
+            "certificate_hash": "29c2f5c27097618d62f1dbbccc0fb6a741931785"
+          }
+        },
+        {
+          "client_id": "481743752673-eqhlrnf1rjffv551ulqssgpp3jgosasu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liyongzhen.teamup",
+            "certificate_hash": "aebf9994f7acd347cc2e29e5d52b085bab08a3a7"
+          }
+        },
+        {
+          "client_id": "481743752673-hlnband7cmg4stu64eia30asf5aq8d9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liyongzhen.teamup",
+            "certificate_hash": "d2b8f6f24c4252e5846dd5cd4b3c03b92284bd06"
+          }
+        },
+        {
+          "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdQZz3AHpU6XM7_yHuUdhPawB2nD5aU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481743752673-5n8cfh913ib3b78kqgk2mmel9g9j9mgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

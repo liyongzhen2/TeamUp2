@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sports">
+        <item>Basketball</item>
+        <item>Baseball</item>
+        <item>Softball</item>
+        <item>Soccer</item>
+        <item>Football</item>
+        <item>Lacrosse</item>
+        <item>Tennis</item>
+        <item>Volleyball</item>
+        <item>Cricket</item>
+        <item>Handball</item>
+        <item>Racketball</item>
+        <item>Bowling</item>
+    </string-array>
+    <string-array name="radius">
+        <item>5 miles</item>
+        <item>10 miles</item>
+        <item>15 miles</item>
+        <item>25 miles</item>
+        <item>50 miles</item>
+        <item>75 miles</item>
+        <item>100 miles</item>
+    </string-array>
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="facebook_app_id">179382089303795</string>
+    <string name="fb_login_protocol_scheme">fb179382089303795</string>
+
+    <string name="app_name">TeamUp</string>
+    <string name="title_activity_splash">TeamUp</string>
+    <string name="title_activity_login">TEAMUP</string>
+    <string name="go_to_register">If you do not have a account please click here to register</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="auth_failed">Create user failed.</string>
+
+    <string name="login_hint_email">Input your email</string>
+    <string name="login_hint_password">Input your password</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_button_facebook">Login With Facebook</string>
+    <string name="login_button_google">   Login With Google+</string>
+    <string name="login_button_register">Register</string>
+    <string name="login_text_or">OR</string>
+    <string name="type_here_content">Type here content</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_fullname">Full Name</string>
+    <string name="prompt_username">Username</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Log out</string>
+    <string name="alarm">Alarm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blog">Blog</string>
+    <string name="chat">Chat</string>
+    <string name="post">Post</string>
+    <string name="create_alarm">Create Alarm</string>
+    <string name="terms"><![CDATA[Terms & Conditions]]></string>
+    <string name="policy">"Privacy Policy"</string>
+</resources>
